@@ -1,5 +1,5 @@
 # Zilo
-Javascript framework to make stuff easier
+Javascript library to make stuff easier
 
 ## Installation
 ```
